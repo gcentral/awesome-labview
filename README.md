@@ -45,7 +45,7 @@ https://forums.ni.com/t5/VI-Analyzer-Enthusiasts/List-of-VI-Analyzer-Toolkit-Tes
 
 - [AntiDoc](https://gitlab.com/wovalab/open-source/labview-doc-generator) - Documentation generator for LabVIEW projects.
 - [AntiDoc](https://gitlab.com/wovalab/open-source/labview-doc-generator) - Documentation generator for LabVIEW projects
-- [Clas Method Browser](https://www.mooregoodideas.com/mgi-library/class-method-browser/class-method-browser/) - Code completion methods of classes
+- [Class Method Browser](https://www.mooregoodideas.com/mgi-library/class-method-browser/class-method-browser/) - Code completion methods of classes
 
 ## DevOps / Version Control / CI / CD
 
