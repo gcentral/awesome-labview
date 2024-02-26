@@ -9,8 +9,6 @@
 
 - [NI Docs: LabVIEW](https://www.ni.com/docs/en-US/bundle/labview-docs/page/labview.html) - NI Documentation center for LabVIEW.
 - [LabVIEW Wiki](https://labviewwiki.org/wiki/Home) - Wiki about the whole LabVIEW ecosystem.
-- [NI Docs: LabVIEW](https://www.ni.com/docs/en-US/bundle/labview-docs/page/labview.html) - NI Documentation center for LabVIEW
-- [LabVIEW Wiki](https://labviewwiki.org/wiki/Home) - Wiki about the whole LabVIEW ecosystem
 - [Hampel Software Knowledge Base](https://dokuwiki.hampel-soft.com/kb) - Lots of knowledge on HSE and LabVIEW development.
 
 ## Frameworks & Design Patterns
